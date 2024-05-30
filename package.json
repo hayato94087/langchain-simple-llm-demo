@@ -12,6 +12,7 @@
   "author": "",
   "devDependencies": {
     "@types/node": "^20.12.13",
+    "dotenv": "^16.4.5",
     "typescript": "^5.4.5",
     "vite-node": "^1.6.0"
   },
